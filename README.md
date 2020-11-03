@@ -3,6 +3,6 @@
 
 ![Twitter Like Button](https://github.com/DeboraMSantos/twitter-like-button/blob/master/public/img/twitter-like-button.gif)
 
-Botão de Like do Twitter utilizando o Lottie
+Botão de Like do Twitter utilizando a biblioteca Lottie
 
 
